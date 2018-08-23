@@ -1,2 +1,4 @@
-# blog
-Some experience summary
+# 86君的博客
+本博客用于储存一些日常的技术总结。啊哈哈哈，希望能持续更新下去吧！
+## 目录：
+1. [浏览器中的事件循环](https://github.com/liubinis86/blog/issues/1)
